@@ -1,4 +1,4 @@
-require 'spec_helper'
+# require 'spec_helper'
 
 # describe Captain do
 #   describe "::catamaran_operators" do
